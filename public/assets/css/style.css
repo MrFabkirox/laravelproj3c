@@ -1,0 +1,33 @@
+p
+	{
+		color:blue;
+	}
+
+.bgImage
+	{
+		background-image: url('{{ asset('../img/lubuntuPix.jpg')}}');
+	}
+
+.footer
+	{
+		bottom:0;
+	}
+
+.navigation
+	{
+		background-color: red;
+
+	}
+
+tr.d0 td
+	{
+		background-color: #CC9999;
+		color: black;
+	}
+
+
+tr.d1 td
+	{
+		background-color: #9999CC;
+		color: black;
+	}
